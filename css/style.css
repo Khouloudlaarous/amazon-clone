@@ -284,11 +284,11 @@ header {
     font-weight: 700;
 }
 
-.col-lg-12 {
+#products .container .col-lg-12 {
     padding: 0 22px 10px 22px;
 }
 
-.col-lg-3 {
+#products .container .col-lg-3 {
     padding: 0 7px;
 }
 
@@ -325,16 +325,13 @@ h2 {
     color: #111;
 }
 
-#products .container{
-    position: relative;
-    width: auto;
-    margin-top: -2px;
-    padding: 0 22px 10px 22px;
-
-}
-
 #products {
     padding: 0 0 60px 0;
+}
+
+
+#products .container{
+    display: inline-flex;
 }
 
 #products .col {

@@ -386,7 +386,7 @@ h2 {
 #products #deal-day {
     margin-top: 20px;
     position: relative;
-    min-height: 250px !important;
+    min-height: 300px !important;
 }
 
 #products #deal-day h2 {
@@ -434,6 +434,7 @@ h2 {
     font-size: 13px;
     color: #555;
 }
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
@@ -445,7 +446,7 @@ h2 {
 
 /* Hide the images by default */
 .mySlides {
-    display: none;
+    display: inline-block;
 }
 
 /* Next & previous buttons */
@@ -459,7 +460,7 @@ h2 {
     color: white;
     font-weight: bold;
     font-size: 18px;
-    transition: 1s ease;
+    transition: 0.4s ease;
     border-radius: 0 3px 3px 0;
     user-select: none;
 }

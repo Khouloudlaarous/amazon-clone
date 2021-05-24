@@ -4,6 +4,7 @@
     <list default="true" id="969445ef-d3b7-4d40-a5cd-33d2158f9fe0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Netflix-clone" />
+    <property name="last_opened_file_path" value="$USER_HOME$/cloned_files-github/clone-amazon" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,6 +44,8 @@
       <workItem from="1621168144474" duration="16812000" />
       <workItem from="1621287250480" duration="837000" />
       <workItem from="1621368143468" duration="10680000" />
+      <workItem from="1621736186377" duration="567000" />
+      <workItem from="1621892471046" duration="2006000" />
     </task>
     <servers />
   </component>
